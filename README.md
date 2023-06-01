@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-sankar&label=Profile%20views&color=0e75b6&style=flat-square" alt="aashish-sankar" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and **Flutter**
 
 - 💬 Ask me about **Flask, Python, Frontend**
 
